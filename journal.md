@@ -22,4 +22,8 @@ Today I worked on modules on CodeHS
 
 Today I worked on coding the turtle to make shapes
 
+# 9/7/23
+
+Today I will be working on functions inn CodeHS
+
 
